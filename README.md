@@ -12,6 +12,7 @@
 * 경험  
   :wrench: Java, React-Native
   
+<!--
 :mag_right: 프로젝트
 ---
 * 주요 프로젝트  
@@ -20,6 +21,7 @@
 * 경험성 프로젝트  
   :heavy_check_mark: Raid Shadow Legends 게임 정보 검색 앱 : React Native  
   :heavy_check_mark: 나홀로 메모장 : HTML, CSS, JavaScript + Python, AWS 연동 경험  
+-->
 
 :mag_right: 링크
 ---
