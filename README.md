@@ -1,6 +1,5 @@
 :mag_right: 소개
 ---
-***
 * 나는 이런 사람이다 :smile:  
   :small_blue_diamond: 나의 인생적 가치관은..  
 * 나는 이런 개발자다 :sunglasses:  
@@ -8,11 +7,9 @@
 
 :mag_right: 기술 / 경험
 ---
-***
 
 :mag_right: 프로젝트
 ---
-***
 * 주요 프로젝트  
   :heavy_check_mark: 골든다이스 프로젝트 : HTML, CSS, JavaScript + NodeJS  
   :heavy_check_mark: 마이웹 프로젝트 : HTML, CSS, JavaScript  
