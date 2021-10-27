@@ -30,5 +30,5 @@
 
 :mag_right: 링크
 ---
-* 이메일: <LeoSong7077@gmail.com>
+* 이메일: <thdeorua12@gmail.com>
 * 블로그: <https://dgsong7077.tistory.com/>
