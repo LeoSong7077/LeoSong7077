@@ -13,7 +13,7 @@
 :mag_right: 기술 / 경험
 ---
 * 기술  
-  :wrench: JavaScript, NodeJS, html, css
+  :wrench: JavaScript, NodeJS, ExpressJS, html, css
 * 경험  
   :wrench: Java, React-Native
   
